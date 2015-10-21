@@ -1,0 +1,27 @@
+/*
+File: /~bbousque/public_html/assignment6/css/assignment6.css
+        91.461 Assignment 6 Creating an Interactive Dynamic Table
+        Brendan Bousquet, UMass Lowell Computer Science Undergraduate
+        brendanbousquet@me.com
+        Created 10/17/2015
+        Copyright (c) 2015 by Brendan P. Bousquet. All rights reserved.
+*/
+h1 {
+    color: blue;
+    text-align: center;
+}
+p, div, form {
+    color: black;
+    text-align: center;
+}
+table {
+    color:blue;
+    border: 1px red;  
+}
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+td.alt {
+    background-color: silver;
+}
